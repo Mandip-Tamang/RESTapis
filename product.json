@@ -1,0 +1,123 @@
+[
+    {
+      "name": "MacBook Air",
+      "price": 1299,
+      "featured": true,
+      "rating": 4.8,
+      "createdAt": "2025-04-08T08:00:00.000Z",
+      "company": "apple"
+    },
+    {
+      "name": "iPhone 15 Pro",
+      "price": 1199,
+      "featured": false,
+      "rating": 4.7,
+      "createdAt": "2025-03-15T10:30:00.000Z",
+      "company": "apple"
+    },
+    {
+      "name": "Galaxy S24 Ultra",
+      "price": 1099,
+      "featured": true,
+      "rating": 4.6,
+      "createdAt": "2025-03-01T14:00:00.000Z",
+      "company": "samsung"
+    },
+    {
+      "name": "Dell XPS 13",
+      "price": 999,
+      "featured": false,
+      "rating": 4.5,
+      "createdAt": "2025-02-20T09:45:00.000Z",
+      "company": "dell"
+    },
+    {
+      "name": "HP Spectre x360",
+      "price": 1049,
+      "featured": true,
+      "rating": 4.4,
+      "createdAt": "2025-02-10T12:00:00.000Z",
+      "company": "hp"
+    },
+    {
+      "name": "Lenovo ThinkPad X1",
+      "price": 1149,
+      "featured": false,
+      "rating": 4.3,
+      "createdAt": "2025-01-30T08:30:00.000Z",
+      "company": "lenevo"
+    },
+    {
+      "name": "Mi Notebook Pro",
+      "price": 849,
+      "featured": true,
+      "rating": 4.2,
+      "createdAt": "2025-01-25T16:00:00.000Z",
+      "company": "mi"
+    },
+    {
+      "name": "HP Pavilion",
+      "price": 749,
+      "featured": false,
+      "rating": 4.1,
+      "createdAt": "2025-01-10T10:15:00.000Z",
+      "company": "hp"
+    },
+    {
+      "name": "Samsung Galaxy Book",
+      "price": 999,
+      "featured": true,
+      "rating": 4.4,
+      "createdAt": "2024-12-20T08:00:00.000Z",
+      "company": "samsung"
+    },
+    {
+      "name": "Mi 12X",
+      "price": 599,
+      "featured": false,
+      "rating": 4.2,
+      "createdAt": "2024-12-15T14:30:00.000Z",
+      "company": "mi"
+    },
+    {
+      "name": "Lenovo Yoga Slim 7",
+      "price": 649,
+      "featured": true,
+      "rating": 4.5,
+      "createdAt": "2024-12-10T09:00:00.000Z",
+      "company": "lenevo"
+    },
+    {
+      "name": "Apple iMac M3",
+      "price": 1499,
+      "featured": false,
+      "rating": 4.6,
+      "createdAt": "2024-11-20T11:00:00.000Z",
+      "company": "apple"
+    },
+    {
+      "name": "Dell Inspiron 15",
+      "price": 849,
+      "featured": true,
+      "rating": 4.3,
+      "createdAt": "2024-11-01T13:00:00.000Z",
+      "company": "dell"
+    },
+    {
+      "name": "HP Envy 14",
+      "price": 999,
+      "featured": false,
+      "rating": 4.2,
+      "createdAt": "2024-10-18T08:00:00.000Z",
+      "company": "hp"
+    },
+    {
+      "name": "Mi Pad 6",
+      "price": 399,
+      "featured": true,
+      "rating": 4.4,
+      "createdAt": "2024-10-05T10:00:00.000Z",
+      "company": "mi"
+    }
+  ]
+  
